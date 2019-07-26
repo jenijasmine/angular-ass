@@ -1,0 +1,164 @@
+{
+  "posts": [
+    {
+      "id": 0,
+      "name": "The Secret",
+      "review": "awesome book",
+      "rating": "4.5"
+    },
+    {
+      "id": 1,
+      "name": "Hary Potter 01",
+      "review": "Very good",
+      "rating": "4.3"
+    },
+    {
+      "id": 2,
+      "name": "Harry met sejal",
+      "review": "Okay",
+      "rating": "3"
+    },
+    {
+      "id": 3,
+      "name": "Python fundamentals",
+      "review": "good",
+      "rating": "4.2"
+    },
+    {
+      "id": 4,
+      "name": "Elon Musk",
+      "review": "Great",
+      "rating": "5"
+    },
+    {
+      "id": 5,
+      "name": "The hunger Games",
+      "review": "Awesome",
+      "rating": "4.5"
+    },
+    {
+      "id": 6,
+      "name": "Gone with the wind",
+      "review": "Great",
+      "rating": "4.3"
+    },
+    {
+      "id": 7,
+      "name": "City of lost souls",
+      "review": "A good read",
+      "rating": "3"
+    },
+    {
+      "id": 8,
+      "name": "How to Kill a Mocking Jay",
+      "review": "Okay-ish",
+      "rating": "3.9"
+    },
+    {
+      "id": 9,
+      "name": "The Fantastic Four",
+      "review": "Kids book",
+      "rating": "4.2"
+    },
+    {
+      "id": 10,
+      "name": "The Secret",
+      "review": "nice",
+      "rating": "4.0"
+    },
+    {
+      "id": 11,
+      "name": "Hary Potter 01",
+      "review": "Very good",
+      "rating": "4.3"
+    },
+    {
+      "id": 12,
+      "name": "Harry met sejal",
+      "review": "good",
+      "rating": "3.9"
+    },
+    {
+      "id": 13,
+      "name": "Python fundamentals",
+      "review": "Informative",
+      "rating": "4.0"
+    },
+    {
+      "id": 14,
+      "name": "Elon Musk",
+      "review": "Inspiring",
+      "rating": "5.6"
+    },
+    {
+      "id": 15,
+      "name": "The hunger Games",
+      "review": "Great",
+      "rating": "4.0"
+    },
+    {
+      "id": 16,
+      "name": "Gone with the wind",
+      "review": "Awesome",
+      "rating": "3.9"
+    },
+    {
+      "id": 17,
+      "name": "City of lost souls",
+      "review": "A nice one",
+      "rating": "4.0"
+    },
+    {
+      "id": 18,
+      "name": "How to Kill a Mocking Jay",
+      "review": "Okay",
+      "rating": "3.5"
+    },
+    {
+      "id": 19,
+      "name": "The Fantastic Four",
+      "review": "My son reads this",
+      "rating": "4.3"
+    },
+    {
+      "name": "The Secret",
+      "review": "awesome",
+      "rating": 2,
+      "id": 20
+    },
+    {
+      "name": "The Secret",
+      "review": "awesome",
+      "rating": 2,
+      "id": 21
+    },
+    {
+      "name": "The Secret",
+      "review": "awesome",
+      "rating": 2,
+      "id": 22
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "Neel Gupta",
+      "password": "neel123"
+    },
+    {
+      "id": 2,
+      "username": "Riya",
+      "password": "riya456"
+    },
+    {
+      "id": 3,
+      "username": "Jeenifa",
+      "password": "jeenifa98"
+    },
+    {
+      "id": 4,
+      "username": "Upanya",
+      "password": "upanya89"
+    }
+  ]
+}
